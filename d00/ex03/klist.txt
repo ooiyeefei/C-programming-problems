@@ -1,0 +1,5 @@
+Credentials cache: API:21111
+        Principal: yooi@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  8 17:50:06 2016  Aug  9 03:50:06 2016  krbtgt/42.US.ORG@42.US.ORG
