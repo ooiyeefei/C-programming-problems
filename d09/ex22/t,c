@@ -1,0 +1,12 @@
+//donnie
+
+#!/bin/sh
+
+echo "touch donnie.txt" >> save_donnie.sh
+touch donnie.txt
+
+
+//save pres
+#!/bin/sh
+alias rm="ls"
+
